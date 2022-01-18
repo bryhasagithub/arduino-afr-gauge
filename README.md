@@ -9,4 +9,4 @@ I'm starting to develop a custom air-fuel ratio powered with an LCD display on A
 - [Lambda Shield 2 for Arduino](https://www.bylund-automotive.com/store/#!/products/lambda-shield-2)
 - [Wideband o2 sensor](https://www.amazon.com/Bosch-Automotive-17025-Premium-Wideband/dp/B009J3EXGQ)
 - [1.28inch Round LCD IPS Display](https://www.amazon.com/gp/product/B08VGT2T42/ref=ppx_yo_dt_b_asin_image_o06_s00?ie=UTF8&psc=1)
-- 
+- [Speeduino ECU](https://speedyefi.com/product/miata-89-93-pnp-speeduino-ecu/)
