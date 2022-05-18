@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gauge xmlns="http://www.EFIAnalytics.com/:gauge">
+<bibliography author="TunerStudio 2.9.104a - Phil Tobin - p_tobin@yahoo.com" company="EFI Analytics, © 2007 - 2015, All Rights Reserved." writeDate="Wed Mar 30 14:50:44 EDT 2016"/>
+<versionInfo fileFormat="1.0"/>
+<gauge>
+<dashComp type="Gauge">
+<Value type="double">2822.0</Value>
+<Title type="String">Engine Speed</Title>
+<Dirty type="boolean">true</Dirty>
+<Units type="String">RPM</Units>
+<Max type="double">8500.0</Max>
+<Min type="double">0.0</Min>
+<BorderWidth type="int">6</BorderWidth>
+<ValueDigits type="int">0</ValueDigits>
+<LabelDigits type="int">0</LabelDigits>
+<BackColor alpha="255" blue="245" green="245" red="245" type="Color">-657931</BackColor>
+<FontColor alpha="255" blue="82" green="31" red="29" type="Color">-14868654</FontColor>
+<TrimColor alpha="255" blue="122" green="105" red="105" type="Color">-9868934</TrimColor>
+<WarnColor alpha="255" blue="0" green="255" red="255" type="Color">-256</WarnColor>
+<PegLimits type="boolean">true</PegLimits>
+<ShowHistory type="boolean">false</ShowHistory>
+<RunDemo type="boolean">false</RunDemo>
+<MustPaint type="boolean">false</MustPaint>
+<GroupId type="int">0</GroupId>
+<GaugePainter type="GaugePainter">Circle Analog Gauge</GaugePainter>
+<GoingDead type="boolean">false</GoingDead>
+<HistoryDelay type="int">15000</HistoryDelay>
+<NeedleSmoothing type="int">1</NeedleSmoothing>
+<FontSizeAdjustment type="int">0</FontSizeAdjustment>
+<CounterClockwise type="boolean">false</CounterClockwise>
+<DisplayValueAt180 type="boolean">true</DisplayValueAt180>
+<CriticalColor alpha="255" blue="0" green="0" red="255" type="Color">-65536</CriticalColor>
+<NeedleColor alpha="255" blue="102" green="0" red="0" type="Color">-16777114</NeedleColor>
+<NeedleImageFileName type="String">null</NeedleImageFileName>
+<LowCritical type="double">300.0</LowCritical>
+<SmoothedValue type="double">2822.0802091774226</SmoothedValue>
+<HistoricalPeakValue type="double">2823.0</HistoricalPeakValue>
+<RelativeBorderWidth2 type="double">0.01910828025477707</RelativeBorderWidth2>
+<HighCritical type="double">7200.0</HighCritical>
+<LowWarningVP type="ValueProvider">600.0</LowWarningVP>
+<HighWarning type="double">6800.0</HighWarning>
+<HighCriticalVP type="ValueProvider">rpmdang</HighCriticalVP>
+<LowCriticalVP type="ValueProvider">300.0</LowCriticalVP>
+<BackgroundImageFileName type="String">null</BackgroundImageFileName>
+<ShortestSize type="int">327</ShortestSize>
+<DisplayValue type="String">2822</DisplayValue>
+<ShapeLockedToAspect type="boolean">true</ShapeLockedToAspect>
+<SweepBeginDegree type="int">300</SweepBeginDegree>
+<HighWarningVP type="ValueProvider">rpmwarn</HighWarningVP>
+<LowWarning type="double">600.0</LowWarning>
+<DefaultMax type="double">8500.0</DefaultMax>
+<MinorTicks type="double">-1.0</MinorTicks>
+<FaceAngle type="int">360</FaceAngle>
+<DefaultMin type="double">0.0</DefaultMin>
+<SweepAngle type="int">300</SweepAngle>
+<GaugeStyle type="String">Circle Analog Gauge</GaugeStyle>
+<MinVP type="ValueProvider">0.0</MinVP>
+<MajorTicks type="double">-1.0</MajorTicks>
+<StartAngle type="int">0</StartAngle>
+<MaxVP type="ValueProvider">rpmhigh</MaxVP>
+<Value type="double">2822.0</Value>
+<Dirty type="boolean">false</Dirty>
+<OutputChannel type="String">rpm</OutputChannel>
+<ShortClickAction type="String">null</ShortClickAction>
+<LongClickAction type="String">null</LongClickAction>
+<Id type="String"/>
+<EcuConfigurationName type="String"/>
+<Dirty type="boolean">false</Dirty>
+<FontFamily type="String"/>
+<ItalicFont type="boolean">false</ItalicFont>
+<RunDemo type="boolean">false</RunDemo>
+<RelativeY type="double">0.004860267314702308</RelativeY>
+<RelativeX type="double">0.002504696305572949</RelativeX>
+<MustPaint type="boolean">false</MustPaint>
+<RelativeWidth type="double">0.247</RelativeWidth>
+<InvalidState type="boolean">false</InvalidState>
+<RelativeHeight type="double">0.397</RelativeHeight>
+<AntialiasingOn type="boolean">true</AntialiasingOn>
+</dashComp>
+</gauge>
+</gauge>

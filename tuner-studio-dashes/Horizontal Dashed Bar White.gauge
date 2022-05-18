@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gauge xmlns="http://www.EFIAnalytics.com/:gauge">
+<bibliography author="TunerStudio 2.9.104a - Phil Tobin - p_tobin@yahoo.com" company="EFI Analytics, © 2007 - 2015, All Rights Reserved." writeDate="Wed Mar 30 16:43:27 EDT 2016"/>
+<versionInfo fileFormat="1.0"/>
+<gauge>
+<dashComp type="Gauge">
+<Value type="double">12.600000000000001</Value>
+<NeedleSmoothing type="int">1</NeedleSmoothing>
+<CriticalColor alpha="255" blue="0" green="0" red="255" type="Color">-65536</CriticalColor>
+<FontSizeAdjustment type="int">1</FontSizeAdjustment>
+<CounterClockwise type="boolean">false</CounterClockwise>
+<HistoryDelay type="int">15000</HistoryDelay>
+<DisplayValueAt180 type="boolean">true</DisplayValueAt180>
+<NeedleColor alpha="255" blue="0" green="0" red="255" type="Color">-65536</NeedleColor>
+<HighWarning type="double">17.0</HighWarning>
+<LowCritical type="double">0.0</LowCritical>
+<RelativeBorderWidth2 type="double">0.0</RelativeBorderWidth2>
+<NeedleImageFileName type="String">null</NeedleImageFileName>
+<LowCriticalVP type="ValueProvider">0.0</LowCriticalVP>
+<HighWarningVP type="ValueProvider">17.0</HighWarningVP>
+<SweepBeginDegree type="int">300</SweepBeginDegree>
+<HistoricalPeakValue type="double">12.600000000000001</HistoricalPeakValue>
+<LowWarningVP type="ValueProvider">0.0</LowWarningVP>
+<SmoothedValue type="double">12.600000000000005</SmoothedValue>
+<ShortestSize type="int">107</ShortestSize>
+<BackgroundImageFileName type="String">null</BackgroundImageFileName>
+<ShapeLockedToAspect type="boolean">false</ShapeLockedToAspect>
+<HighCritical type="double">17.5</HighCritical>
+<DisplayValue type="String">12.60</DisplayValue>
+<HighCriticalVP type="ValueProvider">17.5</HighCriticalVP>
+<FontColor alpha="255" blue="255" green="255" red="255" type="Color">-1</FontColor>
+<ShowHistory type="boolean">true</ShowHistory>
+<BackColor alpha="204" blue="51" green="51" red="51" type="Color">-869059789</BackColor>
+<PegLimits type="boolean">true</PegLimits>
+<TrimColor alpha="255" blue="153" green="153" red="153" type="Color">-6710887</TrimColor>
+<WarnColor alpha="107" blue="0" green="249" red="249" type="Color">1811544320</WarnColor>
+<MinVP type="ValueProvider">10.0</MinVP>
+<MaxVP type="ValueProvider">19.4</MaxVP>
+<LowWarning type="double">0.0</LowWarning>
+<DefaultMax type="double">19.4</DefaultMax>
+<GaugeStyle type="String">Horizontal Dashed Bar Gauge</GaugeStyle>
+<FaceAngle type="int">360</FaceAngle>
+<SweepAngle type="int">300</SweepAngle>
+<DefaultMin type="double">10.0</DefaultMin>
+<MajorTicks type="double">-1.0</MajorTicks>
+<MinorTicks type="double">-1.0</MinorTicks>
+<StartAngle type="int">0</StartAngle>
+<Units type="String"/>
+<Dirty type="boolean">true</Dirty>
+<Title type="String">AFR 1 Target</Title>
+<Min type="double">10.0</Min>
+<Max type="double">19.4</Max>
+<MustPaint type="boolean">false</MustPaint>
+<GroupId type="int">0</GroupId>
+<RunDemo type="boolean">false</RunDemo>
+<GoingDead type="boolean">false</GoingDead>
+<ValueDigits type="int">2</ValueDigits>
+<LabelDigits type="int">2</LabelDigits>
+<GaugePainter type="GaugePainter">Horizontal Dashed Bar Gauge</GaugePainter>
+<BorderWidth type="int">0</BorderWidth>
+<Value type="double">12.600000000000001</Value>
+<Dirty type="boolean">false</Dirty>
+<OutputChannel type="String">afrtgt1</OutputChannel>
+<LongClickAction type="String"/>
+<ShortClickAction type="String"/>
+<Id type="String"/>
+<Dirty type="boolean">false</Dirty>
+<EcuConfigurationName type="String"/>
+<RelativeWidth type="double">0.3059125964010283</RelativeWidth>
+<AntialiasingOn type="boolean">true</AntialiasingOn>
+<InvalidState type="boolean">false</InvalidState>
+<RelativeHeight type="double">0.13001215066828675</RelativeHeight>
+<MustPaint type="boolean">false</MustPaint>
+<RelativeX type="double">0.31876606683804626</RelativeX>
+<RelativeY type="double">0.5358444714459295</RelativeY>
+<RunDemo type="boolean">false</RunDemo>
+<ItalicFont type="boolean">true</ItalicFont>
+<FontFamily type="String"/>
+</dashComp>
+</gauge>
+</gauge>

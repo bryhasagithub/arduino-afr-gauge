@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gauge xmlns="http://www.EFIAnalytics.com/:gauge">
+<bibliography author="TunerStudio 2.9.104a - Phil Tobin - p_tobin@yahoo.com" company="EFI Analytics, © 2007 - 2015, All Rights Reserved." writeDate="Thu Mar 31 10:57:19 EDT 2016"/>
+<versionInfo fileFormat="1.0"/>
+<gauge>
+<dashComp type="Gauge">
+<Value type="double">100.0</Value>
+<Title type="String">EGO Correction 1</Title>
+<Dirty type="boolean">true</Dirty>
+<Units type="String">%</Units>
+<Min type="double">50.0</Min>
+<Max type="double">150.0</Max>
+<BorderWidth type="int">3</BorderWidth>
+<GaugePainter type="GaugePainter">Horizontal Line Gauge</GaugePainter>
+<FontSizeAdjustment type="int">0</FontSizeAdjustment>
+<HistoryDelay type="int">20000</HistoryDelay>
+<DisplayValueAt180 type="boolean">false</DisplayValueAt180>
+<NeedleSmoothing type="int">1</NeedleSmoothing>
+<CriticalColor alpha="255" blue="0" green="0" red="255" type="Color">-65536</CriticalColor>
+<NeedleColor alpha="255" blue="62" green="221" red="102" type="Color">-10035906</NeedleColor>
+<CounterClockwise type="boolean">false</CounterClockwise>
+<LowCritical type="double">90.0</LowCritical>
+<BackgroundImageFileName type="String">null</BackgroundImageFileName>
+<ShapeLockedToAspect type="boolean">false</ShapeLockedToAspect>
+<HistoricalPeakValue type="double">100.0</HistoricalPeakValue>
+<LowCriticalVP type="ValueProvider">90.0</LowCriticalVP>
+<ShortestSize type="int">34</ShortestSize>
+<LowWarningVP type="ValueProvider">99.0</LowWarningVP>
+<HighCriticalVP type="ValueProvider">110.0</HighCriticalVP>
+<SweepBeginDegree type="int">300</SweepBeginDegree>
+<NeedleImageFileName type="String">null</NeedleImageFileName>
+<HighCritical type="double">110.0</HighCritical>
+<RelativeBorderWidth2 type="double">NaN</RelativeBorderWidth2>
+<HighWarning type="double">101.0</HighWarning>
+<SmoothedValue type="double">100.0</SmoothedValue>
+<HighWarningVP type="ValueProvider">101.0</HighWarningVP>
+<DisplayValue type="String">100.0</DisplayValue>
+<ValueDigits type="int">1</ValueDigits>
+<LabelDigits type="int">1</LabelDigits>
+<PegLimits type="boolean">true</PegLimits>
+<TrimColor alpha="255" blue="204" green="204" red="204" type="Color">-3355444</TrimColor>
+<WarnColor alpha="255" blue="0" green="255" red="255" type="Color">-256</WarnColor>
+<ShowHistory type="boolean">false</ShowHistory>
+<BackColor alpha="255" blue="8" green="8" red="8" type="Color">-16250872</BackColor>
+<FontColor alpha="255" blue="62" green="221" red="102" type="Color">-10035906</FontColor>
+<SweepAngle type="int">300</SweepAngle>
+<MinVP type="ValueProvider">50.0</MinVP>
+<GaugeStyle type="String">Horizontal Line Gauge</GaugeStyle>
+<LowWarning type="double">99.0</LowWarning>
+<DefaultMax type="double">150.0</DefaultMax>
+<MinorTicks type="double">-1.0</MinorTicks>
+<StartAngle type="int">0</StartAngle>
+<DefaultMin type="double">50.0</DefaultMin>
+<MajorTicks type="double">-1.0</MajorTicks>
+<FaceAngle type="int">360</FaceAngle>
+<MaxVP type="ValueProvider">150.0</MaxVP>
+<GoingDead type="boolean">false</GoingDead>
+<GroupId type="int">1209223685</GroupId>
+<RunDemo type="boolean">false</RunDemo>
+<MustPaint type="boolean">false</MustPaint>
+<Value type="double">100.0</Value>
+<Dirty type="boolean">false</Dirty>
+<OutputChannel type="String">egocor1</OutputChannel>
+<LongClickAction type="String">null</LongClickAction>
+<ShortClickAction type="String">null</ShortClickAction>
+<Id type="String"/>
+<EcuConfigurationName type="String"/>
+<Dirty type="boolean">false</Dirty>
+<InvalidState type="boolean">false</InvalidState>
+<RelativeWidth type="double">0.23994452149791956</RelativeWidth>
+<AntialiasingOn type="boolean">true</AntialiasingOn>
+<RelativeHeight type="double">0.04101326899879373</RelativeHeight>
+<ItalicFont type="boolean">false</ItalicFont>
+<RunDemo type="boolean">false</RunDemo>
+<MustPaint type="boolean">false</MustPaint>
+<RelativeY type="double">0.5425790754257908</RelativeY>
+<RelativeX type="double">0.0049504950495049506</RelativeX>
+<FontFamily type="String"/>
+</dashComp>
+</gauge>
+</gauge>

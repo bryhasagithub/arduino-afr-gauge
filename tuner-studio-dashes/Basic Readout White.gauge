@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gauge xmlns="http://www.EFIAnalytics.com/:gauge">
+<bibliography author="TunerStudio 2.9.104a - Phil Tobin - p_tobin@yahoo.com" company="EFI Analytics, © 2007 - 2015, All Rights Reserved." writeDate="Wed Mar 30 14:49:21 EDT 2016"/>
+<versionInfo fileFormat="1.0"/>
+<gauge>
+<dashComp type="Gauge">
+<Value type="double">12.600000000000001</Value>
+<Title type="String">AFR 1 Target</Title>
+<Dirty type="boolean">true</Dirty>
+<Units type="String"/>
+<Max type="double">19.4</Max>
+<Min type="double">10.0</Min>
+<BorderWidth type="int">0</BorderWidth>
+<ValueDigits type="int">2</ValueDigits>
+<LabelDigits type="int">2</LabelDigits>
+<BackColor alpha="204" blue="51" green="51" red="51" type="Color">-869059789</BackColor>
+<FontColor alpha="255" blue="255" green="255" red="255" type="Color">-1</FontColor>
+<TrimColor alpha="255" blue="153" green="153" red="153" type="Color">-6710887</TrimColor>
+<WarnColor alpha="107" blue="0" green="249" red="249" type="Color">1811544320</WarnColor>
+<PegLimits type="boolean">true</PegLimits>
+<ShowHistory type="boolean">true</ShowHistory>
+<RunDemo type="boolean">false</RunDemo>
+<MustPaint type="boolean">false</MustPaint>
+<GroupId type="int">0</GroupId>
+<GaugePainter type="GaugePainter">Basic Readout</GaugePainter>
+<GoingDead type="boolean">false</GoingDead>
+<HistoryDelay type="int">15000</HistoryDelay>
+<NeedleSmoothing type="int">1</NeedleSmoothing>
+<FontSizeAdjustment type="int">1</FontSizeAdjustment>
+<CounterClockwise type="boolean">false</CounterClockwise>
+<DisplayValueAt180 type="boolean">true</DisplayValueAt180>
+<CriticalColor alpha="255" blue="0" green="0" red="255" type="Color">-65536</CriticalColor>
+<NeedleColor alpha="255" blue="0" green="0" red="255" type="Color">-65536</NeedleColor>
+<NeedleImageFileName type="String">null</NeedleImageFileName>
+<LowCritical type="double">0.0</LowCritical>
+<SmoothedValue type="double">12.600000000000005</SmoothedValue>
+<HistoricalPeakValue type="double">12.600000000000001</HistoricalPeakValue>
+<RelativeBorderWidth2 type="double">0.0</RelativeBorderWidth2>
+<HighCritical type="double">17.5</HighCritical>
+<LowWarningVP type="ValueProvider">0.0</LowWarningVP>
+<HighWarning type="double">17.0</HighWarning>
+<HighCriticalVP type="ValueProvider">17.5</HighCriticalVP>
+<LowCriticalVP type="ValueProvider">0.0</LowCriticalVP>
+<BackgroundImageFileName type="String">null</BackgroundImageFileName>
+<ShortestSize type="int">140</ShortestSize>
+<DisplayValue type="String">12.60</DisplayValue>
+<ShapeLockedToAspect type="boolean">false</ShapeLockedToAspect>
+<SweepBeginDegree type="int">300</SweepBeginDegree>
+<HighWarningVP type="ValueProvider">17.0</HighWarningVP>
+<LowWarning type="double">0.0</LowWarning>
+<DefaultMax type="double">19.4</DefaultMax>
+<MinorTicks type="double">-1.0</MinorTicks>
+<FaceAngle type="int">360</FaceAngle>
+<DefaultMin type="double">10.0</DefaultMin>
+<SweepAngle type="int">300</SweepAngle>
+<GaugeStyle type="String">Basic Readout</GaugeStyle>
+<MinVP type="ValueProvider">10.0</MinVP>
+<MajorTicks type="double">-1.0</MajorTicks>
+<StartAngle type="int">0</StartAngle>
+<MaxVP type="ValueProvider">19.4</MaxVP>
+<Value type="double">12.600000000000001</Value>
+<Dirty type="boolean">false</Dirty>
+<OutputChannel type="String">afrtgt1</OutputChannel>
+<ShortClickAction type="String"/>
+<LongClickAction type="String"/>
+<Id type="String"/>
+<EcuConfigurationName type="String"/>
+<Dirty type="boolean">false</Dirty>
+<FontFamily type="String"/>
+<ItalicFont type="boolean">true</ItalicFont>
+<RunDemo type="boolean">false</RunDemo>
+<RelativeY type="double">0.7108140947752126</RelativeY>
+<RelativeX type="double">0.3681903569192235</RelativeX>
+<MustPaint type="boolean">false</MustPaint>
+<RelativeWidth type="double">0.2589880159786951</RelativeWidth>
+<InvalidState type="boolean">false</InvalidState>
+<RelativeHeight type="double">0.17054263565891473</RelativeHeight>
+<AntialiasingOn type="boolean">true</AntialiasingOn>
+</dashComp>
+</gauge>
+</gauge>

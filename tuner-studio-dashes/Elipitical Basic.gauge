@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gauge xmlns="http://www.EFIAnalytics.com/:gauge">
+<bibliography author="TunerStudio 2.9.104a - Phil Tobin - p_tobin@yahoo.com" company="EFI Analytics, © 2007 - 2015, All Rights Reserved." writeDate="Wed Mar 30 17:05:47 EDT 2016"/>
+<versionInfo fileFormat="1.0"/>
+<gauge>
+<dashComp type="Gauge">
+<Value type="double">0.0</Value>
+<NeedleSmoothing type="int">1</NeedleSmoothing>
+<CriticalColor alpha="255" blue="0" green="0" red="255" type="Color">-65536</CriticalColor>
+<FontSizeAdjustment type="int">5</FontSizeAdjustment>
+<CounterClockwise type="boolean">false</CounterClockwise>
+<HistoryDelay type="int">15000</HistoryDelay>
+<DisplayValueAt180 type="boolean">true</DisplayValueAt180>
+<NeedleColor alpha="255" blue="0" green="0" red="255" type="Color">-65536</NeedleColor>
+<HighWarning type="double">80.0</HighWarning>
+<LowCritical type="double">5.0</LowCritical>
+<RelativeBorderWidth2 type="double">0.0695364238410596</RelativeBorderWidth2>
+<NeedleImageFileName type="String">null</NeedleImageFileName>
+<LowCriticalVP type="ValueProvider">5.0</LowCriticalVP>
+<HighWarningVP type="ValueProvider">80.0</HighWarningVP>
+<SweepBeginDegree type="int">300</SweepBeginDegree>
+<HistoricalPeakValue type="double">0.0</HistoricalPeakValue>
+<LowWarningVP type="ValueProvider">10.0</LowWarningVP>
+<SmoothedValue type="double">0.0</SmoothedValue>
+<ShortestSize type="int">257</ShortestSize>
+<BackgroundImageFileName type="String">null</BackgroundImageFileName>
+<ShapeLockedToAspect type="boolean">false</ShapeLockedToAspect>
+<HighCritical type="double">90.0</HighCritical>
+<DisplayValue type="String">0</DisplayValue>
+<HighCriticalVP type="ValueProvider">90.0</HighCriticalVP>
+<FontColor alpha="255" blue="0" green="0" red="0" type="Color">-16777216</FontColor>
+<ShowHistory type="boolean">true</ShowHistory>
+<BackColor alpha="255" blue="255" green="255" red="255" type="Color">-1</BackColor>
+<PegLimits type="boolean">true</PegLimits>
+<TrimColor alpha="255" blue="153" green="153" red="153" type="Color">-6710887</TrimColor>
+<WarnColor alpha="255" blue="0" green="255" red="255" type="Color">-256</WarnColor>
+<MinVP type="ValueProvider">0.0</MinVP>
+<MaxVP type="ValueProvider">100.0</MaxVP>
+<LowWarning type="double">10.0</LowWarning>
+<DefaultMax type="double">100.0</DefaultMax>
+<GaugeStyle type="String">Analog Gauge</GaugeStyle>
+<FaceAngle type="int">360</FaceAngle>
+<SweepAngle type="int">300</SweepAngle>
+<DefaultMin type="double">0.0</DefaultMin>
+<MajorTicks type="double">-1.0</MajorTicks>
+<MinorTicks type="double">-1.0</MinorTicks>
+<StartAngle type="int">0</StartAngle>
+<Units type="String">Units</Units>
+<Dirty type="boolean">true</Dirty>
+<Title type="String">Title</Title>
+<Min type="double">0.0</Min>
+<Max type="double">100.0</Max>
+<MustPaint type="boolean">false</MustPaint>
+<GroupId type="int">0</GroupId>
+<RunDemo type="boolean">false</RunDemo>
+<GoingDead type="boolean">false</GoingDead>
+<ValueDigits type="int">0</ValueDigits>
+<LabelDigits type="int">0</LabelDigits>
+<GaugePainter type="GaugePainter">Analog Gauge</GaugePainter>
+<BorderWidth type="int">18</BorderWidth>
+<Value type="double">0.0</Value>
+<Dirty type="boolean">false</Dirty>
+<OutputChannel type="String"/>
+<LongClickAction type="String"/>
+<ShortClickAction type="String"/>
+<Id type="String"/>
+<Dirty type="boolean">false</Dirty>
+<EcuConfigurationName type="String"/>
+<RelativeWidth type="double">0.30398457583547556</RelativeWidth>
+<AntialiasingOn type="boolean">true</AntialiasingOn>
+<InvalidState type="boolean">true</InvalidState>
+<RelativeHeight type="double">0.31227217496962334</RelativeHeight>
+<MustPaint type="boolean">false</MustPaint>
+<RelativeX type="double">0.015424164524421594</RelativeX>
+<RelativeY type="double">0.014580801944106925</RelativeY>
+<RunDemo type="boolean">false</RunDemo>
+<ItalicFont type="boolean">false</ItalicFont>
+<FontFamily type="String"/>
+</dashComp>
+</gauge>
+</gauge>

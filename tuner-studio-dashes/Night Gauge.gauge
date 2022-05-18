@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gauge xmlns="http://www.IdeasAndSolutions.biz/:gauge">
+<bibliography author="TunerStudio 0.5 - Phil Tobin - p_tobin@yahoo.com" company="Ideas And Solutions, © 2007, All Rights Reserved." writeDate="Thu Mar 15 02:46:06 EDT 2007"/>
+<versionInfo fileFormat="1.0"/>
+<gauge>
+<dashComp type="com.efiAnalytics.tunerStudio.Gauge">
+<Value type="double">1189.9095668729176</Value>
+<Title type="java.lang.String">Engine RPM</Title>
+<Units type="java.lang.String">RPM</Units>
+<Min type="double">0.0</Min>
+<Max type="double">8000.0</Max>
+<LowWarning type="double">300.0</LowWarning>
+<HighWarning type="double">7800.0</HighWarning>
+<HighCritical type="double">8000.0</HighCritical>
+<ValueDigits type="int">0</ValueDigits>
+<LabelDigits type="int">0</LabelDigits>
+<StartAngle type="int">2</StartAngle>
+<FaceAngle type="int">267</FaceAngle>
+<MajorTicks type="double">-1.0</MajorTicks>
+<MinorTicks type="double">-1.0</MinorTicks>
+<BackColor blue="247" green="247" red="233" type="java.awt.Color">-1443849</BackColor>
+<FontColor blue="255" green="0" red="14" type="java.awt.Color">-15859457</FontColor>
+<TrimColor blue="163" green="109" red="101" type="java.awt.Color">-10130013</TrimColor>
+<WarnColor blue="0" green="255" red="255" type="java.awt.Color">-256</WarnColor>
+<CriticalColor blue="0" green="0" red="255" type="java.awt.Color">-65536</CriticalColor>
+<NeedleColor blue="228" green="228" red="228" type="java.awt.Color">-1776412</NeedleColor>
+<SweepAngle type="int">207</SweepAngle>
+<SweepBeginDegree type="int">25</SweepBeginDegree>
+<GaugeStyle type="java.lang.String">Basic Analog Gauge</GaugeStyle>
+<DisplayValue type="java.lang.String">1190</DisplayValue>
+<RunDemo type="boolean">false</RunDemo>
+<BorderWidth type="int">12</BorderWidth>
+<FontSizeAdjustment type="int">0</FontSizeAdjustment>
+<FontStyle type="java.lang.String">Arial</FontStyle>
+<OutputChannel type="java.lang.String">RpmHiRes</OutputChannel>
+<RelativeX type="double">0.18257956448911222</RelativeX>
+<RelativeY type="double">0.2184873949579832</RelativeY>
+<RelativeWidth type="double">0.3944723618090452</RelativeWidth>
+<RelativeHeight type="double">0.5258103241296519</RelativeHeight>
+<GaugeContainer type="com.efiAnalytics.tunerStudio.GaugeContainer">com.efiAnalytics.tunerStudio.GaugeCluster[,0,0,1194x833,layout=com.efiAnalytics.tunerStudio.GaugeClusterLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=,minimumSize=,preferredSize=]</GaugeContainer>
+<GaugePainter type="com.efiAnalytics.tunerStudio.GaugePainter">com.efiAnalytics.tunerStudio.renderers.AnalogGaugePainter</GaugePainter>
+</dashComp>
+</gauge>
+</gauge>
